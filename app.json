@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"mrzero"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,7 +51,7 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"mrzero official"
         },
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
@@ -66,16 +66,16 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
-            "required": false,
-            "value":"919074309534"
+            "required": true,
+            "value":"94769673069"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
-            "required": false,
+            "required": true,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
